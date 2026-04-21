@@ -11,6 +11,8 @@ This project implements the core AI cognitive loop for the Grid07 platform, feat
 
 ---
 
+![Architecture Diagram](./architecture.png)
+
 ##  Phase 1: Vector-Based Persona Matching
 **Function:** `route_post_to_bots(post_content, threshold=0.85)`
 
